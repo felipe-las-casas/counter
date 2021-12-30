@@ -1,0 +1,38 @@
+div {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: #2D89A6;
+    font-size: 3rem;
+    margin: 40px 0;
+}
+h2{
+    color: #2D89A6;
+    letter-spacing: .2rem;
+    font-size: 3rem;
+}
+body {
+    background: #F2EBED;
+    font-family: 'Roboto', sans-serif;
+}
+button {
+    font-size: .75rem;
+    letter-spacing: .1rem;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background: #2D89A6;
+    color: #F2E641;
+    margin: 0 px;
+    transition: .2s;
+}
+
+button:hover {
+    background:#F2E641;
+    color: #2D89A6;
+    transition: .5s;
+}
