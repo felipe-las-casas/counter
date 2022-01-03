@@ -1,3 +1,3 @@
 # COUNTER
 
-## Um contador que utiliza JavaScript
+## A counter that uses JavaScript
